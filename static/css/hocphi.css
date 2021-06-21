@@ -1,0 +1,54 @@
+.container-hocphi{
+        
+    background: cadetblue;
+}
+
+.container-hocphi .intro{
+   margin: 0 auto;
+    background-color: #6610f2;
+    width: 50%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    clip-path: polygon(100% 20%, 95% 50%, 100% 80%, 0 80%, 5% 50%, 0 20%);
+}
+.container-hocphi .intro h1{
+    font-size: 60px;
+    margin-top: 30px;
+}
+
+.container-hocphi .allstep{
+    display: flex;
+    padding: auto; 
+    margin: 0 auto ;
+    width: 1000px;
+}
+
+.container-hocphi .allstep .step1{
+    padding: 10px 100px;
+    border: 1px solid springgreen;
+    margin-left: 10px;
+}
+.container-hocphi .allstep .step2{
+    padding: 10px 100px;
+    border: 1px solid springgreen;
+    margin-left: 10px;
+}
+.container-hocphi .allstep .step3{
+    padding: 20px 100px;
+    border: 1px solid springgreen;
+    margin-left: 10px;
+}
+
+.container-hocphi .recharge{
+    width: 200px;
+    margin: 0 auto;
+    
+}
+.container-hocphi .recharge button{
+    background-color: springgreen;
+    padding: 15px 70px;
+    margin-top: 10px;
+}
